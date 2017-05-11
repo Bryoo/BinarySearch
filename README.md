@@ -1,4 +1,4 @@
-# Http Client Program
+# Binary Search Program Python
 
 First, you are to create a BinarySearch class, that inherits from the list class the following:
 
